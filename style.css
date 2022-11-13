@@ -40,16 +40,10 @@ nav ol li {
   background-color: black;
   color: white;
   border-color: rgb(32, 31, 31);
-  right: 1050px;
+  order: 1;
 }
 .button-GoUp:hover{
   background-color: rgb(56, 55, 54);
-}
-div{
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-
 }
 .div h1{
   font-size: 14px;
