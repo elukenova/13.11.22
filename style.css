@@ -44,3 +44,13 @@ nav ol li {
 .button-GoUp:hover{
   background-color: rgb(56, 55, 54);
 }
+div{
+  flex-direction: row;
+  text-align: center;
+  font-size: 14px;
+}
+.div1{
+  flex-direction: row;
+  text-align: center;
+  font-size: 14px;
+}
