@@ -1,0 +1,9 @@
+*{
+  box-sizing: border-box;
+}
+h1{
+  color: red;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 35px;
+  text-decoration: underline;
+}
